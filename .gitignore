@@ -1,0 +1,20 @@
+# Ignore virtual environment
+venv/
+
+# Ignore environment variable file
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings (optional)
+.vscode/
+
+# Jupyter Notebook checkpoints (optional)
+.ipynb_checkpoints/
+
+# macOS and Linux system files (optional)
+.DS_Store
+*.swp
